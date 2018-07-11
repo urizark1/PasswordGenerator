@@ -1,2 +1,2 @@
 # PasswordGenerator
-A desktop application to randomly create passwords using ASCII characters 33 -126. Currently, only passwords of 9 characters in legnth can be created but planning to edit the GUI and the code so that the length can be determined by the user.  
+A desktop application to randomly create passwords using ASCII characters 33 -126. Currently, only passwords of 9 characters in legnth can be created but future commits will include the functionality to create passwords of any length (i.e. 9 - 15 characters long). As well, future commits may include functionality to choose the type of ASCII characters to be used to create the password; only uppercase, lowercase, numerals, or a particular combination.   
